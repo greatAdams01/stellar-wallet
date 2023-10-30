@@ -1,0 +1,11 @@
+{
+  "name": "stellar-wallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/greatAdams01/stellar-wallet",
+  "author": "Great Adams <kingifean@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@stellar/typescript-wallet-sdk": "^1.2.1"
+  }
+}
